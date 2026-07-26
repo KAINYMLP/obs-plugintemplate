@@ -36,10 +36,10 @@
             "bundleId": "com.example.plugintemplate-for-obs"
         }
     },
-    "name": "plugintemplate-for-obs",
-    "displayName": "Plugin Template for OBS",
+    "name": "gumble-twitch-for-obs",
+    "displayName": "Gumble twitch plugin for OBS",
     "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com"
+    "author": "KAINY",
+    "website": "https://t.me/knymlp13",
+    "email": "stavr0378@gmail.com"
 }
