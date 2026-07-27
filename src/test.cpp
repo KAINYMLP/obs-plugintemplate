@@ -17,7 +17,7 @@ TestWidget::TestWidget(QWidget *parent) : QDockWidget("Kainy Test Plugin", paren
     resize(300, 300);
 
     QObject::connect(button, SIGNAL(clicked()), SLOT(ButtonClicked()));
-}
+};
 
 TestWidget::~TestWidget(){
 

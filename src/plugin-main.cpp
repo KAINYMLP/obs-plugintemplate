@@ -29,7 +29,6 @@ bool obs_module_load(void)
 {
 	QWidget *main_window = (Qwidget *)obs_frontend_get_main_window();
 	TestWidget *testwidget = new TestWidget(main_window);
-
 	obs_frontend_add_dock(testWidget);
 	obs_log(LOG_INFO, "plugin loaded successfully (version %s)", PLUGIN_VERSION);
 	return true;
